@@ -22,4 +22,4 @@ This is a basic implementation of a statistical arbitrage strategy using pairs t
 ## Contact
 
 - Author: Akshat
-- Email: akshat@iitr.ac.in
+- Email: akshat@ee.iitr.ac.in
